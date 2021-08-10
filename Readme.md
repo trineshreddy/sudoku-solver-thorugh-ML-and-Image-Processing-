@@ -1,4 +1,4 @@
-# Robust Method of solving sudoko using ML and Image Processing Approach
+# Robust Method of solving sudoku using ML and Image Processing Approach
 
 ## To understand the project read the report which has been attached
 
